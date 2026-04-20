@@ -1,0 +1,22 @@
+# Build
+*.o
+*.out
+*.exe
+*.a
+*.so
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile.bak
+
+# IDE
+.idea/
+.vscode/
+*.cbp
+*.depend
+*.layout
+
+# OS
+.DS_Store
+Thumbs.db
